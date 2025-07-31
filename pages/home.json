@@ -5,7 +5,7 @@
   "params": {},
   "variables": [
     {
-      "name": "swaggerPetstore",
+      "name": "swaggerPetstore1",
       "type": "open-api",
       "id": "open-api"
     }
