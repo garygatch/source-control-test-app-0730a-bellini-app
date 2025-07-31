@@ -1,0 +1,47 @@
+{
+  "type": "custom-component",
+  "name": "sub-component",
+  "children": [
+    {
+      "name": "h1",
+      "nodeName": "h1",
+      "elementId": "",
+      "attributes": [],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [
+        {
+          "property": "text-align",
+          "value": "center",
+          "enabled": true
+        }
+      ],
+      "children": [
+        {
+          "name": "text",
+          "nodeName": "text",
+          "textContent": "App Sub-Component",
+          "evaluate": false
+        }
+      ],
+      "comments": ""
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "externalScripts": [],
+  "externalStylesheets": [],
+  "localScripts": [],
+  "localStylesheets": []
+}

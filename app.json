@@ -1,0 +1,34 @@
+{
+  "name": "source-control-test-app-0730a",
+  "type": "app",
+  "defaultPage": "home",
+  "config": {
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT"
+    },
+    "environments": [],
+    "themes": [],
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    }
+  },
+  "directories": null,
+  "externalScripts": [],
+  "externalStylesheets": [],
+  "localScripts": [
+    {
+      "path": "script1.js"
+    }
+  ],
+  "localStylesheets": [
+    {
+      "path": "styles1.css"
+    }
+  ]
+}
